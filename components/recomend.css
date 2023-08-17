@@ -1,0 +1,16 @@
+.recomend-container {
+  width: 100%;
+  height: var(--dl-size-size-small);
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-primary-4);
+}
+
+
+
+
+
+

@@ -1,0 +1,1887 @@
+.game-page-jump-and-run-game-page {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.game-page-jump-and-run-title {
+  width: 100%;
+  height: 124px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.game-page-jump-and-run-text {
+  color: var(--dl-color-primary-2);
+  font-size: 75px;
+  align-self: center;
+}
+.game-page-jump-and-run-game-container {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink {
+  display: contents;
+}
+.game-page-jump-and-run-image {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text01 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container01 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container01:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink01 {
+  display: contents;
+}
+.game-page-jump-and-run-image01 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text02 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container02 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container02:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink02 {
+  display: contents;
+}
+.game-page-jump-and-run-image02 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text03 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container03 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container03:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink03 {
+  display: contents;
+}
+.game-page-jump-and-run-image03 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text04 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container01 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container04 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container04:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink04 {
+  display: contents;
+}
+.game-page-jump-and-run-image04 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text05 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container05 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container05:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink05 {
+  display: contents;
+}
+.game-page-jump-and-run-image05 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text06 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container06 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container06:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink06 {
+  display: contents;
+}
+.game-page-jump-and-run-image06 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text07 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container07 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container07:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink07 {
+  display: contents;
+}
+.game-page-jump-and-run-image07 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text08 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container02 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container08 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container08:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink08 {
+  display: contents;
+}
+.game-page-jump-and-run-image08 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text09 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container09 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container09:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink09 {
+  display: contents;
+}
+.game-page-jump-and-run-image09 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text10 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container10 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container10:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink10 {
+  display: contents;
+}
+.game-page-jump-and-run-image10 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text11 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container11 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container11:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink11 {
+  display: contents;
+}
+.game-page-jump-and-run-image11 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text12 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container03 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container12 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container12:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink12 {
+  display: contents;
+}
+.game-page-jump-and-run-image12 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text13 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container13 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container13:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink13 {
+  display: contents;
+}
+.game-page-jump-and-run-image13 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text14 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container14 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container14:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink14 {
+  display: contents;
+}
+.game-page-jump-and-run-image14 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text15 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container15 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container15:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink15 {
+  display: contents;
+}
+.game-page-jump-and-run-image15 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text16 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container04 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container16 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container16:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink16 {
+  display: contents;
+}
+.game-page-jump-and-run-image16 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text17 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container17 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container17:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink17 {
+  display: contents;
+}
+.game-page-jump-and-run-image17 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text18 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container18 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container18:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink18 {
+  display: contents;
+}
+.game-page-jump-and-run-image18 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text19 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container19 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container19:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink19 {
+  display: contents;
+}
+.game-page-jump-and-run-image19 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text20 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container05 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container20 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container20:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink20 {
+  display: contents;
+}
+.game-page-jump-and-run-image20 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text21 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container21 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container21:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink21 {
+  display: contents;
+}
+.game-page-jump-and-run-image21 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text22 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container22 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container22:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink22 {
+  display: contents;
+}
+.game-page-jump-and-run-image22 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text23 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container23 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container23:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink23 {
+  display: contents;
+}
+.game-page-jump-and-run-image23 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text24 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container06 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container24 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container24:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink24 {
+  display: contents;
+}
+.game-page-jump-and-run-image24 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text25 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container25 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container25:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink25 {
+  display: contents;
+}
+.game-page-jump-and-run-image25 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text26 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container26 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container26:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink26 {
+  display: contents;
+}
+.game-page-jump-and-run-image26 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text27 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container27 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container27:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink27 {
+  display: contents;
+}
+.game-page-jump-and-run-image27 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text28 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container07 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container28 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container28:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink28 {
+  display: contents;
+}
+.game-page-jump-and-run-image28 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text31 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container29 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container29:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink29 {
+  display: contents;
+}
+.game-page-jump-and-run-image29 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text32 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container30 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container30:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink30 {
+  display: contents;
+}
+.game-page-jump-and-run-image30 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text33 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container31 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container31:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink31 {
+  display: contents;
+}
+.game-page-jump-and-run-image31 {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  border-color: var(--dl-color-primary-2);
+  border-width: 1px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text34 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container08 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container32 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container32:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink32 {
+  display: contents;
+}
+.game-page-jump-and-run-image32 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text38 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container33 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container33:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink33 {
+  display: contents;
+}
+.game-page-jump-and-run-image33 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text39 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container34 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container34:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink34 {
+  display: contents;
+}
+.game-page-jump-and-run-image34 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text40 {
+  color: var(--dl-color-primary-2);
+  font-size: 23px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container35 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container35:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink35 {
+  display: contents;
+}
+.game-page-jump-and-run-image35 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text43 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container09 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container36 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container36:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink36 {
+  display: contents;
+}
+.game-page-jump-and-run-image36 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text44 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container37 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container37:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink37 {
+  display: contents;
+}
+.game-page-jump-and-run-image37 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text45 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container38 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container38:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink38 {
+  display: contents;
+}
+.game-page-jump-and-run-image38 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text46 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container39 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container39:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink39 {
+  display: contents;
+}
+.game-page-jump-and-run-image39 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text47 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container10 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container40 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container40:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink40 {
+  display: contents;
+}
+.game-page-jump-and-run-image40 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text48 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container41 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container41:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink41 {
+  display: contents;
+}
+.game-page-jump-and-run-image41 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text49 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container42 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container42:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink42 {
+  display: contents;
+}
+.game-page-jump-and-run-image42 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text50 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-container43 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container43:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink43 {
+  display: contents;
+}
+.game-page-jump-and-run-image43 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text51 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-game-container11 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-jump-and-run-container44 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-jump-and-run-container44:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-jump-and-run-navlink44 {
+  display: contents;
+}
+.game-page-jump-and-run-image44 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-jump-and-run-text54 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-jump-and-run-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+}
+.game-page-jump-and-run-link {
+  display: contents;
+}
+.game-page-jump-and-run-text57 {
+  text-decoration: none;
+}
+
+
+@media(max-width: 767px) {
+  .game-page-jump-and-run-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .game-page-jump-and-run-footer {
+    padding: var(--dl-space-space-unit);
+  }
+}

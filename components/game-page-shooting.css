@@ -1,0 +1,463 @@
+.game-page-shooting-game-page {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.game-page-shooting-title {
+  width: 100%;
+  height: 124px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.game-page-shooting-text {
+  color: var(--dl-color-primary-2);
+  font-size: 75px;
+  align-self: center;
+}
+.game-page-shooting-game-container {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-shooting-container {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink {
+  display: contents;
+}
+.game-page-shooting-image {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text01 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container01 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container01:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink01 {
+  display: contents;
+}
+.game-page-shooting-image01 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text02 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container02 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container02:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink02 {
+  display: contents;
+}
+.game-page-shooting-image02 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text03 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container03 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container03:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink03 {
+  display: contents;
+}
+.game-page-shooting-image03 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text04 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-game-container1 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-shooting-container04 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container04:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink04 {
+  display: contents;
+}
+.game-page-shooting-image04 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text05 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container05 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container05:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink05 {
+  display: contents;
+}
+.game-page-shooting-image05 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text06 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container06 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container06:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink06 {
+  display: contents;
+}
+.game-page-shooting-image06 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text07 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container07 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container07:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink07 {
+  display: contents;
+}
+.game-page-shooting-image07 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text08 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-game-container2 {
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+  border-color: var(--dl-color-primary-4);
+  border-style: solid;
+  border-width: 5px;
+  justify-content: center;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+}
+.game-page-shooting-container08 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container08:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink08 {
+  display: contents;
+}
+.game-page-shooting-image08 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text09 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-container09 {
+  flex: 0 0 auto;
+  width: 20%;
+  height: 85%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-left: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-twounits);
+  flex-direction: column;
+}
+.game-page-shooting-container09:hover {
+  box-shadow: 0px 0px 15px 1px #a700ff;
+  border-color: #bb00ff;
+  border-width: 5px;
+}
+.game-page-shooting-navlink09 {
+  display: contents;
+}
+.game-page-shooting-image09 {
+  width: 100%;
+  height: 100%;
+  align-self: center;
+  margin-top: 0px;
+  object-fit: cover;
+  margin-left: 5px;
+  padding-top: 0px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.game-page-shooting-text10 {
+  color: var(--dl-color-primary-2);
+  font-size: 25px;
+  margin-top: 7px;
+  font-family: Poppins;
+  font-weight: 700;
+}
+.game-page-shooting-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: flex-start;
+}
+.game-page-shooting-link {
+  display: contents;
+}
+.game-page-shooting-text11 {
+  text-decoration: none;
+}
+
+@media(max-width: 767px) {
+  .game-page-shooting-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+}
+@media(max-width: 479px) {
+  .game-page-shooting-footer {
+    padding: var(--dl-space-space-unit);
+  }
+}
